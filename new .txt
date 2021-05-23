@@ -1,1 +1,2 @@
-thsi is the first git project you will ever seen
+this is the first git project you will ever seen
+edited my sugandha 
