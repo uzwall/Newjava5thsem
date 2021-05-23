@@ -1,7 +1,7 @@
 this is the first git project you will ever seen
 <<<<<<< HEAD
 edited my sugandha man shakya
-=======
+
 edited my sugandha 
 
 
@@ -9,4 +9,5 @@ aba edit garne vai pull garhai
 
 
 Yo YO honey sing
->>>>>>> 5c20d07a981433a375ccbf6958abd3f6d6b5bd48
+
+edited by uzwal
