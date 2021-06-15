@@ -1,0 +1,7 @@
+Qn1. Write a program to create a frame having a form to take 2 numbers from user and a button to add those numbers.
+Qn.2 Make a form with three radio button and 5 checkboxes.
+Qn.3 Create a awt GUI that contains a combo box and text field. When a option is selected in combo box, display it in text field.
+Qn.4  Write a program that read number from a user and display the factorial of the output in text field when user press a button.
+Qn.5 Write a program that contains two button and a text field. When first button is clicked, a message "Hello world" is shown in the text 	field, when second button is clicked text in the textfield is cleared.
+Qn.6 write a program to  display simple interest. (Hint: formula : S.I = P* T*R /100)
+Qn.7 Create a awt GUI that contains a List of countries and text field. When a option is selected in list, display it in text field.
